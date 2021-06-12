@@ -1,2 +1,2 @@
-# Rep-test
-A repository test for me
+# Compbranch
+A branch test from my computer
